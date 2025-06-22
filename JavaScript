@@ -1,0 +1,3 @@
+// Placeholder for dynamic API integration if needed
+console.log("Photo Editor Tools Loaded");
+
